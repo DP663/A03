@@ -1,6 +1,7 @@
 # A03
-How to create a GitHub account?
+10/24/2019
 
+How to create a GitHub account?
 
 Step 1: Go to https://github.com/join 
 Step 2: Enter your personal detail. 
@@ -46,3 +47,6 @@ Fork - lets you have your own branch
 Tasks - Moving, renaming, creating files.
 Push- Sending committed changes to a remote repository. So others can access them.
 Merge Conflict- Merging branches that have competing commits. Git needs help to decide which changes to incorporate into the final merge.
+
+Change made on 10/24/2019
+
