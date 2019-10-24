@@ -49,4 +49,5 @@ Push- Sending committed changes to a remote repository. So others can access the
 Merge Conflict- Merging branches that have competing commits. Git needs help to decide which changes to incorporate into the final merge.
 
 Change made on 10/24/2019
-
+12.03
+flgn	
